@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "antd": "^5.20.6"
+    "antd": "catalog:"
   }
 }
