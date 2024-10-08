@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "react": "catalog:",
+    "@types/react": "catalog:",
     "antd": "catalog:"
   }
 }

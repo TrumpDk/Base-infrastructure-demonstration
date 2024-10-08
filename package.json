@@ -6,7 +6,9 @@
   "private": "true",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "preinstall": "npx only-allow pnpm"
+    "preinstall": "npx only-allow pnpm",
+    "dev:ssr": "pnpm -F @app/ssr dev",
+    "dev:web": "pnpm -F @app/web dev"
   },
   "keywords": [],
   "author": "",

@@ -1,4 +1,5 @@
 node_modules
 projects/**/node_modules
+projects/**/.next
 packages/**/node_modules
 package-lock.json
